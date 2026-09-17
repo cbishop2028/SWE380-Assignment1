@@ -2,37 +2,36 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Connor Bishop
+Connor Bishop
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+connobi@umich.edu
 
 Phone
-+1 (213) 352-2795
+(810)-618-2162
 
 Birthday
-June 23, 1982
+March 3, 2006
 
 Location
-Sacramento, California, USA
+Flushing, Michigan
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a Computer Science student studying at the University of Michigan-Flint. I am a web development intern in Lansing, Michigan. I graduate in December of 2027.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
